@@ -12,3 +12,4 @@ C:\Users\admin\Documents\MEGA\CRISTIAN\Proyectos Programacion\Demos LinQ\obj\Deb
 C:\Users\admin\Documents\MEGA\CRISTIAN\Proyectos Programacion\Demos LinQ\obj\Debug\net8.0\Demos LinQ.pdb
 C:\Users\admin\Documents\MEGA\CRISTIAN\Proyectos Programacion\Demos LinQ\obj\Debug\net8.0\Demos LinQ.genruntimeconfig.cache
 C:\Users\admin\Documents\MEGA\CRISTIAN\Proyectos Programacion\Demos LinQ\obj\Debug\net8.0\ref\Demos LinQ.dll
+C:\Users\admin\Documents\MEGA\CRISTIAN\Proyectos Programacion\Demos LinQ\obj\Debug\net8.0\Demos LinQ.sourcelink.json
