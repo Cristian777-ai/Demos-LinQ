@@ -1,7 +1,20 @@
 ﻿LinqQueries queries = new LinqQueries();
 
-ImprimirValores(queries.TodaLaColeccion());
+//Toda la coleccion
+//ImprimirValores(queries.TodaLaColeccion());
 
+//Libros despues del 2000
+//ImprimirValores(queries.LibrosDespuesdel2000());
+
+//Libros que tienen mas de 250 pgs y tienen en el titulo la palabra in action
+//ImprimirValores(queries.LibrosConMasde250PagConPalabrasInAction());
+
+//Todos los libros tienen status
+//Console.WriteLine($"Todos los libros tienen status? -  {queries.TodosLosLibrosTienenStatus()}");
+
+//Si algun libro fue publicado en 2005
+
+Console.WriteLine($"Algun libro fue publicado en 2005? -  {queries.SiAlgunLibroFuePublicado2005()}");
 
 void ImprimirValores(IEnumerable<Book> listadelibros)
 {
